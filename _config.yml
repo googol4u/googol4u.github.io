@@ -28,8 +28,16 @@ description_footer:
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #hygblog
-disqus_shortname: gaohaoyang
+#duoshuo_shortname: #hygblog
+#disqus_shortname: gaohaoyang
+comments:
+  gitalk: true
+  gitalk_clientID: 'a9a676ee83f502e5fa8b'
+  gitalk_Secret: '87357aad78a82f3bcd3394581640ff4b516af4bb'
+  gitalk_repo: 'googol4u.github.io'
+  gitalk_owner: 'googol4u'
+  gitalk_admin: 'googol4u'
+  distractionFreeMode: true
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
