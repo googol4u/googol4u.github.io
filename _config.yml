@@ -10,6 +10,9 @@ title: 歪歪猪作坊
 brief-intro: 编程是一门手艺
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://googol4u.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
 
 permalink: /:year/:month/:day/:title/
 
@@ -64,7 +67,7 @@ tag_dir: tag/
 excerpt_separator: "\n\n\n\n"
 
 # paginate
-gems: [jekyll-paginate]
+#gems: [jekyll-paginate]
 paginate: 6
 
 github_comments_repository:  googol4u/googol4u.github.io
