@@ -35,8 +35,8 @@ description_footer:
 #disqus_shortname: gaohaoyang
 comments:
   gitalk: true
-  gitalk_clientID: 'a9a676ee83f502e5fa8b'
-  gitalk_Secret: '87357aad78a82f3bcd3394581640ff4b516af4bb'
+  gitalk_clientID: '6c43dfcee6204ca6cddb'
+  gitalk_Secret: '9fa156ee87b2bca93bd04cb68c4c5df91eabda1e'
   gitalk_repo: 'googol4u.github.io'
   gitalk_owner: 'googol4u'
   gitalk_admin: 'googol4u'
