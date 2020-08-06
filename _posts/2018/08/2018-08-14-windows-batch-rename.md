@@ -2,7 +2,7 @@
 layout: post
 title: Windows下如何批量更改文件名
 tagline: "windows"
-category: null
+category: 技术
 tags: [windows]
 published: true
 github_comments_issueid: "2"
